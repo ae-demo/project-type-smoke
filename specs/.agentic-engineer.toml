@@ -1,0 +1,4 @@
+apiVersion = "agentic-engineer/v1"
+name = "project-type-smoke"
+createdAt = "2026-10-09T06:32:10Z"
+idea = "Project-type smoke test: a minimal todo list web app. Throwaway project for verifying project creation; safe to delete."
